@@ -1,5 +1,5 @@
 # 322-coin-change
-The challenge No. 322 in leetcode.com
+The [challenge No. 322](https://leetcode.com/problems/coin-change/) in leetcode.com
 
 ## Overview
 This challenge was made by using the grid method. The code uses an array that has the length of the amount give plus one.
